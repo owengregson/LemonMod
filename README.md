@@ -8,11 +8,11 @@ I had already discontinued development of the mod before it was patched, so no m
 Attached below are screenshots & videos of the mod in various states of development during its life cycle.
 
 ![Login page](./s1.png)
-![Mod screen](./s2.png)
-![Mod screen](./s3.png)
-![Mod screen](./s4.png)
-![Mod screen](./s5.png)
-![Mod screen](./s6.png)
+![Mod screen 1](./s2.png)
+![Mod screen 2](./s3.png)
+![Mod screen 3](./s4.png)
+![Mod screen 4](./s5.png)
+![Mod screen 5](./s6.png)
 
 2.0 Release Trailer: https://www.youtube.com/watch?v=H6n9NRjvGMM
 
